@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hola, soy John Blanco
+
+Desde hace un año programé mi cerebro para el éxito y desarrollar aplicaciones full stack. Actualmente estoy optimizando dos mvp de comercio eléctrónico, uno que desarrollé junto a otras personas y otro por mi cuenta para no dejar de aprender. Atento en saber que quieren las personas para a hacer sus vidas más fáciles con la tecnología por mi experiencia en Desarrollo de Software y Marketing. Interesado en un trabajo en el que pueda continuar aprendiendo de otros Desarrolladores y aportar. 
 
 <!--
 **blancojohn/blancojohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
