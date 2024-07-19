@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola👋, soy John Blanco</h1>
-Tengo experiencia en Desarrollo de Aplicaciones Web y Marketing. Actualmente estoy optimizando dos mvp de comercio eléctrónico, uno que desarrollé junto a otras personas y otro por mi cuenta para no detener mi desarrollo [Ecommerce-StarWars-reading-list](https://github.com/blancojohn/Ecommerce-StarWars-reading-list), [Final-Project ](https://github.com/blancojohn/Final-Project).
+Tengo experiencia en Desarrollo de Aplicaciones Web Full Stack y Marketing. Actualmente estoy optimizando dos mvp de comercio eléctrónico, uno que desarrollé junto a otras personas y otro por mi cuenta para no detener mi desarrollo [Ecommerce-StarWars-reading-list](https://github.com/blancojohn/Ecommerce-StarWars-reading-list), [Final-Project ](https://github.com/blancojohn/Final-Project).
 Atento en saber que quieren las personas para a hacer sus vidas más fáciles con la tecnología. Interesado en seguir aprendiendo de otros Desarrolladores y aportar.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
