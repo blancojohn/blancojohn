@@ -1,7 +1,8 @@
 
 <h1 align="center">Hola👋, soy John Blanco</h1>
-Tengo experiencia en Desarrollo de Aplicaciones Web Full Stack y Marketing. Actualmente estoy optimizando dos mvp de comercio eléctrónico, uno que desarrollé junto a otras personas y otro por mi cuenta para no detener mi desarrollo [Ecommerce-StarWars-reading-list](https://github.com/blancojohn/Ecommerce-StarWars-reading-list), [Final-Project ](https://github.com/blancojohn/Final-Project).
-Atento en saber que quieren las personas para a hacer sus vidas más fáciles con la tecnología. Interesado en seguir aprendiendo de otros Desarrolladores y aportar.
+Desarrollador Full Stack, certificado por 4Geeks Academy. Tengo una excelente trayectoria en el mundo del Marketing y Ventas pero, desde el 2024 decidí dar un cambio a mi vida introduciéndome al mundo de la tecnología de la información. Ahora soy una mezcla de mis pasiones por la comunicación y el desarrollo de software. Échale una mirada a mi portafolio para que veas mis proyectos más destacados en mí apredizaje o a cualquier repo en GitHub. Interesado en colaborar con otros desarrolladores y seguir aprendiendo.
+<h3>Mí portafolio:</h3>
+<a href="https://john-dev.onrender.com/"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/john-blanco-dc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-blanco-dc" height="30" width="40" /></a>
